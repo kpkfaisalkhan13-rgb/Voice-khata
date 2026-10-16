@@ -1,0 +1,6 @@
+{
+  "name": "Voice Udhaar",
+  "description": "Voice-driven offline encrypted khata ledger for shopkeepers with Urdu voice validation, biometric lock, and local SQLite storage.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
